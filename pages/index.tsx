@@ -6,7 +6,7 @@ const Home: NextPage = () => {
     return (
         <div>
             <Head>
-                <title>Create Next App</title>
+                <title>Instagram 2.0 YouTube</title>
                 <link rel="icon" href="/favicon.ico"/>
             </Head>
             {/* Header */}
